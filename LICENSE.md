@@ -10,9 +10,10 @@
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+ Copyright (C) Xabi.S.A, Inc. <http://fsf.org/>
+ Todos los derechos pertenecen a Xabi.S.A y cualquier
+ intento de modificar supondra una violacion de los 
+ derechos y podra ser demandado por ello.
 
                             Preamble
 
